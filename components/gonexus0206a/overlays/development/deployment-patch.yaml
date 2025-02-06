@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: nexus-repo-nexus.apps.rosa.xjiang0206417a.u1a1.p3.openshiftapps.com/rhtap/gonexus0206a:a190092290c230774f1476e28d77a879f6c88ac7@sha256:c2136ac858cc0349946b0e9a0f7e66f59f0eb727b7547a5e152b148a67592c88
+        - image: nexus-repo-nexus.apps.rosa.xjiang0206417a.u1a1.p3.openshiftapps.com/rhtap/gonexus0206a:a78a2b60c46192d8868f24f988a1055d15d26c93@sha256:fd054c726d2cfd0bbc492405a3303db9b050487ffc2113d59263fd38a86c89d4
           name: container-image
